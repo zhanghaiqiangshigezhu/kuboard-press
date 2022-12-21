@@ -92,7 +92,7 @@ Kuboard 是一款专为 Kubernetes 设计的免费管理界面，兼容 Kubernet
 
   ![Kuboard-套件扩展](./intro.assets/image-20210405183652378.png)
 
-* 告警配置
+* 告警配置:
   
   可以通过界面直接配置资源层监控套件发送告警消息：
 
